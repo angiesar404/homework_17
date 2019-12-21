@@ -1,0 +1,19 @@
+body {
+    font-family: Calibri, sans-serif;
+    font-size: 100%;
+    width: 300px;
+    padding: 1em;
+}
+h1 {
+    font-size: 180%;
+}
+.site-logo {
+    font-size: 180%;
+    text-align: center; 
+    color: blue
+}
+.site-tagline {
+    font-size: 130%;
+    text-align: center;
+    color: gray
+}
